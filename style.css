@@ -107,6 +107,11 @@ nav span i {
     padding: 10px;
 }
 
+#S-M {
+    float: right;
+    margin-top: -71px;
+}
+
 #Headlines {
     margin-top: 180px;
 }
