@@ -43,6 +43,21 @@ nav span i {
     width: 100%;
 }
 
+nav a button {
+    background: #69852C;
+    border: none;
+    border-radius: 6px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 35px;
+    font-size: small;
+    color: white; 
+    text-transform: uppercase;
+    font-size: 11px;
+}
+
 /* Floriculture Crop Data */
 #crop {
     width: 100%;
@@ -107,13 +122,13 @@ nav span i {
     padding: 10px;
 }
 
+#Headlines {
+    margin-top: 180px;
+}
+
 #S-M {
     float: right;
     margin-top: -71px;
-}
-
-#Headlines {
-    margin-top: 180px;
 }
 
 #Food {
@@ -236,4 +251,23 @@ nav span i {
     padding-top: 3px;
     padding-bottom: 3px;
     color: white;
+}
+
+#Registering {
+    background: #69852C;
+}
+
+#Registering button {
+    background: #026C00;
+    border: none;
+    border-radius: 6px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 35px;
+    font-size: small;
+    color: white; 
+    text-transform: uppercase;
+    font-size: 11px;
 }
